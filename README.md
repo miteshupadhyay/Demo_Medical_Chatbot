@@ -21,3 +21,9 @@ python app.py
 
 # Access the application
 http://localhost:8080
+
+# Note 
+.env file needs to be created with below information
+
+PINECONE_API_KEY=
+OPENAI_API_KEY=
